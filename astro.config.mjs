@@ -1,2 +1,2 @@
 import { defineConfig } from 'astro/config';
-export default defineConfig({ server: { port: 4321 }, devToolbar: { enabled: false } });
+export default defineConfig({ site: 'https://nnourchenejjandoubi-star:github.io' });
